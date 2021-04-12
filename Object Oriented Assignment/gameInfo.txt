@@ -1,0 +1,6 @@
+Game 1:The title of this game is: 'Crash Bandicoot 4' and was made by: Toys For Bob. It has an ESRB rating of: T, and costs: $60.0
+Game 2:The title of this game is: 'Super Mario Galaxy' and was made by: Nintendo. It has an ESRB rating of: E, and costs: $60.0
+Game 3:The title of this game is: 'Super Mario 3D Land' and was made by: Nintendo. It has an ESRB rating of: E, and costs: $60.0
+Game 4:The title of this game is: 'Tales of The Abyss' and was made by: Bandai Namco. It has an ESRB rating of: T, and costs: $60.0
+Game 5:The title of this game is: 'Horizon Zero Dawn' and was made by: Bungie. It has an ESRB rating of: T, and costs: $60.0
+Game 6:The title of this game is: 'Call of Duty: Black Ops' and was made by: Ubisoft. It has an ESRB rating of: M, and costs: $60.0
